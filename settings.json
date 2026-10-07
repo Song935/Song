@@ -3,8 +3,6 @@
     "workbench.editorAssociations": {
         "*.CRK": "default"
     },
-    "explorer.confirmDelete": false,
-    "security.workspace.trust.untrustedFiles": "open",
     "claudeCode.preferredLocation": "panel",
     "claudeCode.hideOnboarding": true,
     "claudeCode.useTerminal": true
